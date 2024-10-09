@@ -16,7 +16,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer, and amateur eSports player.",
 		description:
-			"I am a backend developer with expertise in Node.js, Laravel, and React. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies, along with proficiency in MongoDB and SQL databases. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a full stack web developer with expertise in Node.js, Laravel, and React. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies, along with proficiency in MongoDB and SQL databases. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
